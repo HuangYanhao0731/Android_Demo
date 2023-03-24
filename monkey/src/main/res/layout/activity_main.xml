@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="#FF009688"
+        android:gravity="center"
+        android:text="主页"
+        android:textColor="@color/white"
+        android:textSize="27sp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bg"
+        android:gravity="center_vertical">
+
+        <ImageView
+            android:id="@+id/iv_monkey"
+            android:layout_width="180dp"
+            android:layout_height="180dp"
+            android:src="@drawable/monkey" />
+
+        <Button
+            android:id="@+id/btn_enter"
+            android:layout_width="200dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="20dp"
+            android:layout_toRightOf="@+id/iv_monkey"
+            android:background="@drawable/btn_peach"
+            android:text="去桃园"
+            android:textSize="40sp" />
+
+        <ImageView
+            android:id="@+id/iv_peach"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="200dp"
+            android:src="@drawable/peach_pic" />
+
+        <TextView
+            android:id="@+id/tv_cnt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="250dp"
+            android:layout_toRightOf="@id/iv_peach"
+            android:text="摘到了0个"
+            android:textSize="40sp" />
+    </RelativeLayout>
+
+</LinearLayout>

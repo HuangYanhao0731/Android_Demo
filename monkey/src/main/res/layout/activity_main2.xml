@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity2">
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="#FF009688"
+        android:gravity="center"
+        android:text="桃园"
+        android:textColor="@color/white"
+        android:textSize="27sp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/tree_bg">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:background="@drawable/tree">
+
+            <ImageView
+                android:id="@+id/peach_1"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_marginLeft="150dp"
+                android:layout_marginTop="40dp"
+                android:src="@drawable/peach_pic" />
+
+            <ImageView
+                android:id="@+id/peach_2"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_below="@+id/peach_1"
+                android:layout_marginLeft="100dp"
+                android:src="@drawable/peach_pic" />
+
+            <ImageView
+                android:id="@+id/peach_3"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_below="@+id/peach_1"
+                android:layout_marginLeft="220dp"
+                android:src="@drawable/peach_pic" />
+
+            <ImageView
+                android:id="@+id/peach_4"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_below="@+id/peach_2"
+                android:layout_marginLeft="75dp"
+                android:src="@drawable/peach_pic" />
+
+            <ImageView
+                android:id="@+id/peach_5"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_below="@id/peach_2"
+                android:layout_marginLeft="175dp"
+                android:src="@drawable/peach_pic" />
+
+            <ImageView
+                android:id="@+id/peach_6"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_below="@id/peach_2"
+                android:layout_marginLeft="270dp"
+                android:src="@drawable/peach_pic" />
+
+            <Button
+                android:id="@+id/btn_exit"
+                android:layout_width="200dp"
+                android:layout_height="100dp"
+                android:layout_marginLeft="200dp"
+                android:layout_marginTop="450dp"
+                android:background="@drawable/btn_peach"
+                android:text="退出桃园"
+                android:textSize="30sp" />
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+</LinearLayout>

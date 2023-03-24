@@ -14,3 +14,6 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Index"
 include ':app'
+include ':shopping'
+include ':wechat'
+include ':monkey'

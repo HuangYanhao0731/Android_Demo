@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="5dp"
+    android:background="@color/light_blue"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/friend_name"
+        android:layout_width="match_parent"
+        android:layout_height="15dp"
+        android:layout_margin="10dp"
+        android:layout_weight="1"
+        android:background="@color/ivory"
+        android:fontFamily="@font/huawencaiyun"
+        android:gravity="center"
+        android:text="安欣"
+        android:textColor="@color/blue"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/friend_info"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_weight="1"
+        android:layout_margin="10dp"
+        android:text="  张译饰演的安欣，扮演角色为来自公安宣传部，长达十年一直在除黑队伍当中，后意外被举报涉黑查案中断，安欣查案途中再受保护伞阻拦，受到多种程度的威胁也不害怕，后来成功查出来。"
+        android:fontFamily="@font/huawenxingkai"
+        android:textSize="22sp" />
+
+    <ImageView
+        android:id="@+id/friend_pic"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_weight="1"
+        app:srcCompat="@drawable/anxin" />
+
+    <Button
+        android:id="@+id/btn_back"
+        android:layout_width="100dp"
+        android:layout_height="5dp"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:alpha="0.5"
+        android:text="返回"
+        android:textColor="#000000"
+        android:textSize="18sp" />
+</LinearLayout>
