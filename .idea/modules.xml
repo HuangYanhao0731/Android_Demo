@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Index.iml" filepath="$PROJECT_DIR$/.idea/modules/Index.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Index.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Index.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Index.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Index.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Index.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Index.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Index.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Index.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/monkey/Index.monkey.iml" filepath="$PROJECT_DIR$/.idea/modules/monkey/Index.monkey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/monkey/Index.monkey.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/monkey/Index.monkey.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/monkey/Index.monkey.main.iml" filepath="$PROJECT_DIR$/.idea/modules/monkey/Index.monkey.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/monkey/Index.monkey.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/monkey/Index.monkey.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shopping/Index.shopping.iml" filepath="$PROJECT_DIR$/.idea/modules/shopping/Index.shopping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shopping/Index.shopping.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shopping/Index.shopping.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shopping/Index.shopping.main.iml" filepath="$PROJECT_DIR$/.idea/modules/shopping/Index.shopping.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shopping/Index.shopping.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shopping/Index.shopping.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shoppingcart/Index.shoppingcart.iml" filepath="$PROJECT_DIR$/.idea/modules/shoppingcart/Index.shoppingcart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shoppingcart/Index.shoppingcart.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shoppingcart/Index.shoppingcart.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shoppingcart/Index.shoppingcart.main.iml" filepath="$PROJECT_DIR$/.idea/modules/shoppingcart/Index.shoppingcart.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shoppingcart/Index.shoppingcart.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shoppingcart/Index.shoppingcart.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WeChat/Index.wechat.iml" filepath="$PROJECT_DIR$/.idea/modules/WeChat/Index.wechat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WeChat/Index.wechat.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/WeChat/Index.wechat.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WeChat/Index.wechat.main.iml" filepath="$PROJECT_DIR$/.idea/modules/WeChat/Index.wechat.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WeChat/Index.wechat.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/WeChat/Index.wechat.unitTest.iml" />
+    </modules>
+  </component>
+</project>
