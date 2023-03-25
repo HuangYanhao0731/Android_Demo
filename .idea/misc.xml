@@ -30,9 +30,20 @@
         <entry key="..\:/Myapp/Index/shopping/src/main/res/layout/item_goods.xml" value="0.22" />
         <entry key="..\:/Myapp/Index/shopping/src/main/res/layout/title_shopping.xml" value="0.10572916666666667" />
         <entry key="..\:/Myapp/Index/shopping/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Myapp/Index/shoppingcart/src/main/res/layout/activity_cart.xml" value="0.303125" />
+        <entry key="..\:/Myapp/Index/shoppingcart/src/main/res/layout/activity_main.xml" value="0.30416666666666664" />
+        <entry key="..\:/Myapp/Index/shoppingcart/src/main/res/layout/cart_item.xml" value="0.303125" />
+        <entry key="..\:/Myapp/Index/shoppingcart/src/main/res/layout/product_item.xml" value="0.30416666666666664" />
         <entry key="..\:/Myapp/Index/wechat/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
-        <entry key="..\:/Myapp/Index/wechat/src/main/res/layout/bottom.xml" value="0.26614583333333336" />
+        <entry key="..\:/Myapp/Index/wechat/src/main/res/layout/bottom.xml" value="0.1" />
         <entry key="..\:/Myapp/Index/wechat/src/main/res/layout/fragment_chat.xml" value="0.26614583333333336" />
+        <entry key="..\:/Myapp/Index/wechat/src/main/res/layout/fragment_circle_friend.xml" value="0.14969604863221886" />
+        <entry key="..\:/Myapp/Index/wechat/src/main/res/layout/fragment_contacts.xml" value="0.14969604863221886" />
+        <entry key="..\:/Myapp/Index/wechat/src/main/res/layout/fragment_settings.xml" value="0.14969604863221886" />
+        <entry key="..\:/Myapp/Index/wechat/src/main/res/layout/group_name.xml" value="0.14969604863221886" />
+        <entry key="..\:/Myapp/Index/wechat/src/main/res/layout/item.xml" value="0.14969604863221886" />
+        <entry key="..\:/Myapp/Index/wechat/src/main/res/layout/item_image.xml" value="0.14969604863221886" />
+        <entry key="..\:/Myapp/Index/wechat/src/main/res/layout/leimu_tab.xml" value="0.14969604863221886" />
       </map>
     </option>
   </component>

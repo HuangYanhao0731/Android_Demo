@@ -210,3 +210,4 @@ public class ShoppingDBHelper extends SQLiteOpenHelper {
         mWDB.delete(TABLE_CART_INFO, "1=1", null);
     }
 }
+

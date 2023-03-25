@@ -58,7 +58,8 @@ public class MyApplication extends Application {
         List<GoodsInfo> list = GoodsInfo.getDefaultList();
         for (GoodsInfo info : list) {
                 Bitmap bitmap = BitmapFactory.decodeResource(getResources(), info.pic);
-                String path = "E:/Myapp/Index/shopping/src/main/res/drawable-xhdpi" + info.name + ".jpg";
+                File imagePath = new File(getExternalFilesDir(Environment.DIRECTORY_PICTURES), info.name + ".jpg");
+                String path = imagePath.getAbsolutePath();
                 // 往存储卡保存商品图片
                 FileUtil.saveImage(path, bitmap);
                 // 回收位图对象

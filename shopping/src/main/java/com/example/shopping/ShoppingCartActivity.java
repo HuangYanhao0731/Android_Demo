@@ -62,6 +62,8 @@ public class ShoppingCartActivity extends AppCompatActivity implements View.OnCl
     protected void onResume() {
         super.onResume();
         showCart();
+        tv_count.setText(String.valueOf(MyApplication.getInstance().goodsCount));
+        showCount();
     }
 
     // 展示购物车中的商品列表

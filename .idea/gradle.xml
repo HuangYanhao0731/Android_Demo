@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/monkey" />
             <option value="$PROJECT_DIR$/shopping" />
+            <option value="$PROJECT_DIR$/shoppingcart" />
             <option value="$PROJECT_DIR$/wechat" />
           </set>
         </option>
